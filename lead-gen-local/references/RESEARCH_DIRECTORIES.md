@@ -2,36 +2,36 @@
 
 ---
 
-## BELGIUM (Primary Example)
+## BELGIUM & EUROPE (Example)
 
 ### General Business Directories
 - **Golden Pages** (goldenpages.be) — Searchable by category, location, phone
   - Best for: Salons, trades, services
   - Data: Business name, address, phone, sometimes website
-  - Usage: Search by location (8670 Koksijde) + category (Kapper = Barber)
+  - Usage: Search by location + category (example: Barber)
 
 - **Google Maps** (maps.google.com)
   - Best for: Everything (primary data source)
   - Data: Location, hours, phone, website, reviews, photos, ratings
-  - Usage: Search "Hair salons Koksijde" → scrape name, address, reviews, website status
+  - Usage: Search by business type + location → scrape name, address, reviews, website status
   - Pro tip: Filter by rating 4.0+ to find active businesses
 
 - **Pages Jaunes** (pagesjaunesbelges.be) — French-language
-  - Best for: French-speaking regions (Wallonia)
+  - Best for: French-speaking regions
   - Same format as Golden Pages
 
-### Industry-Specific
+### Industry-Specific Examples
 - **Verwarminggids.be** — Heating/HVAC installers
 - **Massage-info.be** — Massage therapists & wellness
 - **Salon Databases** — Some regions have hairdresser-specific directories
 
-### Search Approach for Belgium
+### Search Approach (Universal)
 1. Start with Google Maps (most complete, fastest)
-2. Cross-reference with Golden Pages (verify phone, get exact address)
-3. Check massage-info.be for wellness specifically
+2. Cross-reference with local Yellow Pages equivalent (verify phone, get exact address)
+3. Check industry-specific directories for specialization signals
 4. Verify active business with recent reviews (last 30 days)
 
-### Expected Volume (Small Belgian City, ~8,000 people)
+### Expected Volume (Small City, ~5,000-10,000 people)
 - Hair salons: 8-15
 - Massage/wellness: 3-5
 - Fitness: 2-3
@@ -195,7 +195,7 @@ Business Name | Address | City | Postal Code | Country | Phone | Email | Website
 
 **Example row:**
 ```
-Salon Nordic | Hauptstrasse 42 | Koksijde | 8670 | Belgium | +32 468 12 27 51 | - | N | - | None | 4.8 | 24 | Y | Y | Y | - | Active, high-quality photos
+Salon Example | Main Street 42 | City Name | 12345 | Country | +[phone] | - | N | - | None | 4.8 | 24 | Y | Y | Y | - | Active, high-quality photos
 ```
 
 ---

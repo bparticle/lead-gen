@@ -83,7 +83,7 @@ Using probability scoring:
 
 **Morning (2 hours):**
 1. Open Google Maps
-2. Search "[Your service] [City name]" (e.g., "website design Koksijde")
+2. Search "[Your service] [City name]" (e.g., "web design Austin")
 3. Compile 3-4 high-probability industries first
 4. For each business: note name, address, phone, website (Y/N), rating, recent reviews
 

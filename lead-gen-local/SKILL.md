@@ -50,9 +50,9 @@ Not all "no website" businesses are equal. A salon with no website is losing cus
 **Input:** User provides target city/region and service offering
 
 Examples:
-- "Web design services in Koksijde, Belgium"
-- "SEO consulting in Portland, Oregon"
-- "Social media management in Austin, Texas"
+- "Web design services in [City], [Country]"
+- "SEO consulting in [City], [Country]"
+- "Social media management in [City], [Country]"
 
 **Output:** Clear definition of who you're selling to and where
 
